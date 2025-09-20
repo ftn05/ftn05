@@ -12,7 +12,7 @@
 
 <h2> About Me <img align="right" style="margin: 0px 0px 0px 15px;" src="https://komarev.com/ghpvc/?username=ftn05&label=Profile%20views&color=0e75b6&style=flat" alt="ftn05" /> </h2>
 
-<img align="right" alt="Coding" width="350" height="260" src="https://github.com/AIGautam/AIGautam/blob/main/coding%20animated.gif" />
+<img align="right" alt="Coding" width="350" height="200" src="https://github.com/AIGautam/AIGautam/blob/main/coding%20animated.gif" />
 
 - 🔭 I'm currently working on repository [Work](https://github.com/ftnimran/Team-Work)
 
