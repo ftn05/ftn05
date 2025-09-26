@@ -99,3 +99,7 @@
   <a href="https://github.com/ftn05/Class-Work" > <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftn05&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=Class-Work"></a>
 </div>
 <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+
+
+# SMG
